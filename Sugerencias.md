@@ -2,12 +2,12 @@
 ## Sitios 
 <br> </br>
 ### Sitio Archivo DILA → http://www.caicyt-conicet.gov.ar/dila/
-* Información de copyright ==no== está especificado:
+* Información de copyright no está especificado:
 	![Copyright](images/image1.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/acercade](http://www.caicyt-conicet.gov.ar/dila/acercade)
 <br> </br>
 <br> </br>
-* Copyright o tipo de licencia ==no== está especificado:
+* Copyright o tipo de licencia no está especificado:
 	![Licencia](images/image7.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/items/show/13268#?c=0&m=0&s=0&cv=0](http://www.caicyt-conicet.gov.ar/dila/items/show/13268#?c=0&m=0&s=0&cv=0)
 <br> </br>
@@ -41,7 +41,7 @@
 <br> </br>
 <br> </br>
 * Typo
-	- [ ] Universida==sd==
+	- [ ] _Universidsd_
 	![universidad](images/image15.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-de-la-coleccin-stell](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-de-la-coleccin-stell)
 <br> </br>
@@ -61,13 +61,13 @@
 <br> </br>
 <br> </br>
 * Typo
-	- [ ] centr==ósus==
+	- [ ] _centrósus_
 	![centrosus](images/image23.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/isad-g--fondo-conicet_caicyt_dila_ibarra](http://www.caicyt-conicet.gov.ar/dila/isad-g--fondo-conicet_caicyt_dila_ibarra)
 <br> </br>
 <br> </br>
 * Sintaxis
-	- [ ] ==a través de== cualquier dispositivo
+	- [ ] _a través de_ cualquier dispositivo
 	![aTravesDe](images/image6.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-de-la-coleccin-gualdieri](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-de-la-coleccin-gualdieri)
 <br> </br>
@@ -106,11 +106,13 @@
 	- [ ] No
 	![enlace_restringido](images/image13.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/collections/show/7](http://www.caicyt-conicet.gov.ar/dila/collections/show/7)
+	<br> </br>
 * El enlace suministrado nos redirecciona a esta situación:
 	- acceder a los recursos está restringido
 	- requiere una inscripción
 	![url](images/image4.png)
 	- [https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_0007_E856_1](https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_0007_E856_1)
+	<br> </br>
 * Para acceder al recurso, es necesario la inscripción y aprobación del Staff Académico
 	![url](images/image22.png)
 	- [https://archive.mpi.nl/tla/user/register](https://archive.mpi.nl/tla/user/register)
@@ -121,9 +123,11 @@
 	- [ ] No
 	![url](images/image16.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/collections/show/6](http://www.caicyt-conicet.gov.ar/dila/collections/show/6)
+	<br> </br>
 * Si hacemos clic en `Ver Todos`
 	![url](images/image39.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/items/browse?collection=6](http://www.caicyt-conicet.gov.ar/dila/items/browse?collection=6)
+	<br> </br>
 * Si hacemos clic en el enlace del [Programa Dobes](https://archive.mpi.nl/tla/islandora/object/tla%3A1839_00_0000_0000_0001_305B_C) de [The Language Archive](https://archive.mpi.nl/tla/) nos informa que:
 	- el enlace está restringido
 	![url](images/image10.png)
@@ -163,7 +167,7 @@
 <br> </br>
 <br> </br>
 * Typo y referencia URL:
-	- [ ] Ver ==mas==
+	- [ ] Ver _mas_
 	- [ ] `localhost`
 	![url](images/image36.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/items/show/7767#?c=0&m=0&s=0&cv=0](http://www.caicyt-conicet.gov.ar/dila/items/show/7767#?c=0&m=0&s=0&cv=0)
