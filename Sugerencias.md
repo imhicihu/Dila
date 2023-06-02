@@ -174,7 +174,9 @@
 * Typo y referencia URL:
 	- [ ] Ver _mas_
 	- [ ] `localhost`
+	- [ ] `127.0.0.1`
 	![url](images/image36.png)
+	![url](images/image38.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/items/show/7767#?c=0&m=0&s=0&cv=0](http://www.caicyt-conicet.gov.ar/dila/items/show/7767#?c=0&m=0&s=0&cv=0)
 <br> </br>
 <br> </br>
