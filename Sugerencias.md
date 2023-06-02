@@ -260,7 +260,7 @@
 ### Misceláneas:
 #### Omeka
 * Actualización [Omeka](https://omeka.org/classic/docs/Installation/Upgrading/)
-* [Omega vulnerabilidades](https://www.cvedetails.com/vulnerability-list/vendor_id-13565/product_id-28202/Omeka-Omeka.html)
+* [Omeka vulnerabilidades](https://www.cvedetails.com/vulnerability-list/vendor_id-13565/product_id-28202/Omeka-Omeka.html)
 * Posibilidad de agregar este plugin para poder compartir la difusión del sitio. Ver [plugin-SocialBookmarking](https://github.com/omeka/plugin-SocialBookmarking)
 * Posibilidad de exportar datos: [CSV export](https://github.com/utlib/CsvExport), [Database Transfer](https://github.com/iwemuiser/plugin-DatabaseTransfer)
 * Posibilidad de verificar enlaces rotos: [CheckLinks](https://github.com/EMAN-Omeka/CheckLinks)
