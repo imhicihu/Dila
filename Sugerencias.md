@@ -144,13 +144,6 @@
 	- [http://www.caicyt-conicet.gov.ar/dila/items/browse?search=&collection=6&type=21&advanced%5B0%5D%5Belement_id%5D=42&advanced%5B0%5D%5Btype%5D=&advanced%5B0%5D%5Bterms%5D=&submit_search=Buscar+por+items](http://www.caicyt-conicet.gov.ar/dila/items/browse?search=&collection=6&type=21&advanced%5B0%5D%5Belement_id%5D=42&advanced%5B0%5D%5Btype%5D=&advanced%5B0%5D%5Bterms%5D=&submit_search=Buscar+por+items)
 <br> </br>
 <br> </br>
-* Modificar enlace roto:
-	- [ ] Sí
-	- [ ] No
-	![url](images/image19.png)
-	- [http://www.caicyt-conicet.gov.ar/dila/los-chamacocos-prueba](http://www.caicyt-conicet.gov.ar/dila/los-chamacocos-prueba)
-<br> </br>
-<br> </br>
 * Actualizar información, enlace roto:
 	![url](images/image19.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/los-chamacocos-prueba](http://www.caicyt-conicet.gov.ar/dila/los-chamacocos-prueba)
