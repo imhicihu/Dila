@@ -239,18 +239,31 @@
 <br> </br>
 ### Sitio Archivo DoBeS - Lenguas del Chaco → http://dobes.caicyt.gov.ar/ds?imdi_browser/
 * Sitio no encontrado (http://dobes.caicyt.gov.ar/ds?imdi_browser/)
+	- Se accedió el 15 de mayo de 2023
 	![url](images/image34.png)
 	- [http://dobes.caicyt.gov.ar/ds?imdi_browser/](http://dobes.caicyt.gov.ar/ds?imdi_browser/)
 <br> </br>
 <br> </br>
 ### Sitio Glosario de Antropología y Arqueología → http://vocacularios.caicyt.gov.ar/antropoglosa
 * Sitio no encontrado (http://vocacularios.caicyt.gov.ar/antropoglosa)
+	- Se accedió el 15 de mayo de 2023
 	![url](images/image37.png)
 	- [http://vocacularios.caicyt.gov.ar/antropoglosa](http://vocacularios.caicyt.gov.ar/antropoglosa)
+
 <br> </br>
 <br> </br>
 ### Misceláneas:
-* Actualizar [Omeka](https://omeka.org/classic/docs/Installation/Upgrading/)
-* Actualizar _backlinks_ https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8
-* Existe _cron_ jobs para hacer _backups_ regulares
-* Generar un _sitemap_
+#### Omeka
+* Actualización [Omeka](https://omeka.org/classic/docs/Installation/Upgrading/)
+* Posibilidad de agregar este plugin para poder compartir la difusión del sitio. Ver [plugin-SocialBookmarking](https://github.com/omeka/plugin-SocialBookmarking)
+* Posibilidad de exportar datos: [CSV export](https://github.com/utlib/CsvExport), [Database Transfer](https://github.com/iwemuiser/plugin-DatabaseTransfer)
+* Posibilidad de verificar enlaces rotos: [CheckLinks](https://github.com/EMAN-Omeka/CheckLinks)
+* Posibilidad de generar un mapa del sitio: [Sitemap](https://github.com/BGSU-LITS/omeka-plugin-Sitemap), [XMLSitemap](https://github.com/kevinreiss/Omeka-XMLSitemap) & [SiteMap2](https://github.com/UCSCLibrary/Sitemap)
+#### Backlinks
+* Actualizar _backlinks_ del Dila: https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8
+* Actualizar _backlink_ del micro-sitio del Dila: https://diccionariowichi.com.ar/creditos/instituciones/
+#### Servidor
+* Política de backups: periodicidad, _cron_ jobs?
+* Hay un servidor espejo del sitio?
+* `robots.txt`
+* [system page status](https://updown.io/p/4isvl)
