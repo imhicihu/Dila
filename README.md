@@ -1,9 +1,13 @@
+<h1 align="center">
+![logo_DILA](images/logo-dila.png)
+</h1>
+<br> </br>
 ![portada](images/477405737-stability_work_in_progress.png)
 ![internal_use](images/3847436881-internal_use_stable.png)
 # FUNDAMENTO #
 
 * Este repositorio persigue simplemente el registro de los cambios llevados a cabo en la transición entre un servidor a otro, su flujo de trabajo y las estrategias digitales implicadas. Entre las herramientas _open source_ utilizadas están [Omeka](https://omeka.org/), servidores [Apache](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache), base de datos [MySQL](https://es.wikipedia.org/wiki/MySQL), [Wordpress](https://wordpress.org/); lenguaje de programación PHP _et alia_.
-* Es un repositorio con fines específicos y de uso interno.
+* Es un repositorio con fines específicos y de **uso interno**.
 ![portada](images/portada.png)
 
 ## Transferencia ##
