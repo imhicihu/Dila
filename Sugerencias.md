@@ -269,5 +269,5 @@
 #### Servidor
 * Política de backups: periodicidad, _cron_ jobs?
 * Hay un servidor espejo del sitio?
-* `robots.txt`?
+* `robots.txt`? → [robots.txt](robots.txt)
 * [system page status](https://updown.io/p/4isvl)?
