@@ -1,6 +1,4 @@
-<h1 align="center">
-![logo_DILA](images/logo-dila.png)
-</h1>
+![logotipo](images/logo-dila.png)
 <br> </br>
 ![portada](images/477405737-stability_work_in_progress.png)
 ![internal_use](images/3847436881-internal_use_stable.png)
