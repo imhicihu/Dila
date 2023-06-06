@@ -1,5 +1,9 @@
-![logotipo](images/logo-dila.png)
-<br> </br>
+<p align="center">
+  <img src="https://github.com/imhicihu/dila/blob/d906cfac8423856f46f95ae2ba21f1659a9232ce/images/logo-dila.png?raw=true" alt="DILA logotipo"/>
+</p>
+<br> 
+</br>
+
 ![portada](images/477405737-stability_work_in_progress.png)
 ![internal_use](images/3847436881-internal_use_stable.png)
 # FUNDAMENTO #
@@ -21,7 +25,7 @@
 
 ## Contribuciones ##
 
-* Dado que este proyecto es de **uso interno**, las solicitudes de extracción (*pull requests*) están restringidas a aquellos involucrados en este proyecto.
+* Dado que este proyecto es de **uso interno**, las solicitudes de extracción (*pull requests*) están **restringidas** a aquellos involucrados en este proyecto.
 
 ## Legales ##
 
