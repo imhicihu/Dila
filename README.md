@@ -31,6 +31,9 @@
 
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
 
+## Código de conducta ##
+* Por favor, revise nuestro [Código de conducta](codigo_de_conducta.md).
+
 ## Licencia ##
 
 * Este repositorio se distribuye bajo la licencia ![MIT](images/2049852260-MIT-license-green.png), que especifica los términos y condiciones de uso. Consulte el archivo [LICENSE](LICENSE) para obtener más información.
