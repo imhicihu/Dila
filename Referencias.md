@@ -1,5 +1,12 @@
 ## Referencias ##
 Citamos a estos proyectos que sirvieron de referencia en este proyecto:
+* [Omeka Forums](https://forum.omeka.org/)
+	* [Move servers with different names](https://forum.omeka.org/t/move-servers-with-different-names/9760)
+	* [Omeka URL issues after moving to new server](https://forum.omeka.org/t/omeka-url-issues-after-moving-to-new-server/1639)
+	* [Moving to Another Server](https://omeka.org/classic/docs/Technical/Moving_to_Another_Server/)
+	* [The hosting decision! Can Omeka S be transferred between hosts?](https://forum.omeka.org/t/the-hosting-decision-can-omeka-s-be-transferred-between-hosts/13846)
+	* [Backup on old server and restore on new server](https://forum.omeka.org/t/backup-on-old-server-and-restore-on-new-server/15422)
+	* [Staging site & development best practices](https://forum.omeka.org/t/staging-site-development-best-practices/14028)
 * [Omeka plugins](https://daniel-km.github.io/UpgradeToOmekaS/omeka_plugins.html)
 * [Omeka S Tools](https://github.com/wragge/omeka_s_tools)
 * [Omeka Classic Developer Documentation](https://omeka.readthedocs.io/en/latest/)
