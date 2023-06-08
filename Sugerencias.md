@@ -262,7 +262,7 @@
 * ¿Existe la posibilidad de generar un mapa del sitio _vía_ [Sitemap](https://github.com/BGSU-LITS/omeka-plugin-Sitemap), [XMLSitemap](https://github.com/kevinreiss/Omeka-XMLSitemap) & [SiteMap2](https://github.com/UCSCLibrary/Sitemap)?
 * ¿Existe la posibilidad de habilitar las [breadcrumbs](https://github.com/omeka/Omeka/blob/master/application/libraries/Zend/View/Helper/Navigation/Breadcrumbs.php) para facilitar la lectura y orientación dentro de las colecciones al usuario final?
 * ¿Posibilidad de implementar un [Changelog](https://codingpotions.com/changelogs/)?
-* ¿Qué plugins están habilitados, cuáles están programados para activarse (si los hubiera) y cuáles están  deshabilitarlos (en un futuro)
+* ¿Qué plugins están habilitados, cuáles están programados para activarse y desactivarse en un futuro?
 * ¿Existe una página `404` y `Sitio en mantenimiento`?
 #### Backlinks
 * Actualizar _backlinks_ del Dila: [https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8) 
