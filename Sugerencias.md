@@ -254,21 +254,22 @@
 <br> </br>
 ### Misceláneas:
 #### Omeka
-* Actualización [Omeka](https://omeka.org/classic/docs/Installation/Upgrading/)
+* ¿Está planificada la actualización de [Omeka](https://omeka.org/classic/docs/Installation/Upgrading/)?
 * [Omeka vulnerabilidades](https://www.cvedetails.com/vulnerability-list/vendor_id-13565/product_id-28202/Omeka-Omeka.html)
-* Posibilidad de agregar este plugin para poder compartir la difusión del sitio. Ver [plugin-SocialBookmarking](https://github.com/omeka/plugin-SocialBookmarking)
-* Posibilidad de exportar datos: [CSV export](https://github.com/utlib/CsvExport), [Database Transfer](https://github.com/iwemuiser/plugin-DatabaseTransfer)
-* Posibilidad de verificar enlaces rotos: [CheckLinks](https://github.com/EMAN-Omeka/CheckLinks)
-* Posibilidad de generar un mapa del sitio: [Sitemap](https://github.com/BGSU-LITS/omeka-plugin-Sitemap), [XMLSitemap](https://github.com/kevinreiss/Omeka-XMLSitemap) & [SiteMap2](https://github.com/UCSCLibrary/Sitemap)
-* Posibilidad de habilitar las [breadcrumbs](https://github.com/omeka/Omeka/blob/master/application/libraries/Zend/View/Helper/Navigation/Breadcrumbs.php): facilitar la lectura y orientación dentro de las colecciones
-* Posibilidad de un [Changelog](https://codingpotions.com/changelogs/)?
-* Qué plugins están habilitados, cuáles están programados para activarse y cuáles para deshabilitarlos (en un futuro)
-* Existe una página `404` y `Sitio en mantenimiento`
+* ¿Existe la posibilidad de agregar este _plugin_ para poder compartir la difusión del sitio? Ver [plugin-SocialBookmarking](https://github.com/omeka/plugin-SocialBookmarking)
+* ¿Existe la posibilidad de exportar datos _vía_ [CSV export](https://github.com/utlib/CsvExport) o [Database Transfer](https://github.com/iwemuiser/plugin-DatabaseTransfer)
+* ¿Existe la posibilidad de verificar enlaces rotos _vía_ [CheckLinks](https://github.com/EMAN-Omeka/CheckLinks)
+* ¿Existe la posibilidad de generar un mapa del sitio _vía_ [Sitemap](https://github.com/BGSU-LITS/omeka-plugin-Sitemap), [XMLSitemap](https://github.com/kevinreiss/Omeka-XMLSitemap) & [SiteMap2](https://github.com/UCSCLibrary/Sitemap)?
+* ¿Existe la posibilidad de habilitar las [breadcrumbs](https://github.com/omeka/Omeka/blob/master/application/libraries/Zend/View/Helper/Navigation/Breadcrumbs.php) para facilitar la lectura y orientación dentro de las colecciones al usuario final?
+* ¿Posibilidad de implementar un [Changelog](https://codingpotions.com/changelogs/)?
+* ¿Qué plugins están habilitados, cuáles están programados para activarse (si los hubiera) y cuáles están  deshabilitarlos (en un futuro)
+* ¿Existe una página `404` y `Sitio en mantenimiento`?
 #### Backlinks
-* Actualizar _backlinks_ del Dila: https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8
+* Actualizar _backlinks_ del Dila: [https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8) 
 * Actualizar _backlink_ del micro-sitio del Dila: _v. gr._: https://diccionariowichi.com.ar/creditos/instituciones/
+* ¿Generar una política de [intercambio de enlaces](https://www.isocialweb.agency/wiki/intercambio-de-enlaces/)?
 #### Servidor
-* Política de backups: periodicidad, _cron_ jobs?
-* Hay un servidor espejo del sitio?
-* `robots.txt`? → [robots.txt](robots.txt)
-* [system page status](https://updown.io/p/4isvl)?
+* Política de backups: ¿periodicidad, _cron_ jobs?
+* ¿Hay un servidor espejo del sitio?
+* ¿Existe un `robots.txt`? → [robots.txt](robots.txt)
+* ¿ Existe una página de estado operacional del servidor [system page status](https://updown.io/p/4isvl)?
