@@ -32,6 +32,7 @@
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
 
 ## Código de conducta ##
+
 * Por favor, revise nuestro [Código de conducta](codigo_de_conducta.md).
 
 ## Licencia ##
