@@ -12,7 +12,7 @@
 ## Backlinks ##
 * Actualizar _backlinks_ del Dila: [https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8)
 * Actualizar _backlink_ del micro-sitio del Dila: _v. gr._: [https://diccionariowichi.com.ar/creditos/instituciones/](https://diccionariowichi.com.ar/creditos/instituciones/)
-![url](images/image5.png)
+![url](images/wichi.png)
 ## Servidor ##
 * Política de backups: periodicidad, _cron_ jobs?
 * Hay un servidor espejo del sitio?
