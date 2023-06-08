@@ -257,6 +257,7 @@
 * ¿Está planificada la actualización de [Omeka](https://omeka.org/classic/docs/Installation/Upgrading/)?
 * [Omeka vulnerabilidades](https://www.cvedetails.com/vulnerability-list/vendor_id-13565/product_id-28202/Omeka-Omeka.html)
 * ¿Existe la posibilidad de agregar este _plugin_ para poder compartir la difusión del sitio? Ver [plugin-SocialBookmarking](https://github.com/omeka/plugin-SocialBookmarking)
+	![social_media](images/social_links.png)
 * ¿Existe la posibilidad de exportar datos _vía_ [CSV export](https://github.com/utlib/CsvExport) o [Database Transfer](https://github.com/iwemuiser/plugin-DatabaseTransfer)
 * ¿Existe la posibilidad de verificar enlaces rotos _vía_ [CheckLinks](https://github.com/EMAN-Omeka/CheckLinks)
 * ¿Existe la posibilidad de generar un mapa del sitio _vía_ [Sitemap](https://github.com/BGSU-LITS/omeka-plugin-Sitemap), [XMLSitemap](https://github.com/kevinreiss/Omeka-XMLSitemap) & [SiteMap2](https://github.com/UCSCLibrary/Sitemap)?
