@@ -176,6 +176,14 @@
 	- [http://www.caicyt-conicet.gov.ar/dila/items/show/7767#?c=0&m=0&s=0&cv=0](http://www.caicyt-conicet.gov.ar/dila/items/show/7767#?c=0&m=0&s=0&cv=0)
 <br> </br>
 <br> </br>
+* Typos en [Inventario detallado del Fondo Bucca](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-del-fondo-bucca)
+	* [ ] 1 caja de polipropileno **corrugado16** Audios: cintas abiertas, casettes, cds
+	* [ ] 70 Word order and its stylistic value **n** the Isopanisad
+	* [ ]  49 Reseña de Lingüística Moderna y Filología **Hipánica**
+	* [ ]  Las copias digitales de preservación son en **formato.wav** (audios)
+	* [ ]  Movimiento de la colección: → ?
+<br> </br>
+<br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
