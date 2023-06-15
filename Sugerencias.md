@@ -198,6 +198,16 @@
 	* [ ] "acceso abierto en el Repositorio Digital Archivo DILA ."
 <br> </br>
 <br> </br>
+* Typo en [Referencias y Bibliografía - Cordeu](http://www.caicyt-conicet.gov.ar/dila/referencias-cordeu)
+	* [ ] "esta colección y las **nomenclauras** utilizadas "
+	* [ ] "La ambivalencia del antes y el **despues**: los usos "
+<br> </br>
+<br> </br>
+* Typo en [Glosario de términos Ishí](http://www.caicyt-conicet.gov.ar/dila/glosario-ishr)
+	* [ ] "se distinguen también varias **su-bespecies** en el"
+	* [ ] 
+<br> </br>
+<br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
