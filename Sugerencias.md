@@ -185,10 +185,19 @@
 <br> </br>
 <br> </br>
 * Typo en [ISAD G Fondo documental Dick Edgar Ibarra Grasso](http://www.caicyt-conicet.gov.ar/dila/isad-g--fondo-conicet_caicyt_dila_ibarra)
-	* "fructífera producción bibliográfica, **,** escribió más de 350 artículos **.** Fue"
+	* [ ]"fructífera producción bibliográfica, **,** escribió más de 350 artículos **.** Fue"
 <br> </br>
 <br> </br>
-
+* Typo en [Inventario detallado de la colección Scarpa](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-de-la-coleccin-scarpa)
+	* [ ] "tamaño o dimensiones): 81 audios **diigitales**"
+	* [ ] "comodato de material para  su digitalización"
+<br> </br>
+<br> </br>
+* Typo en [Inventario detallado de la colección Dreidemie](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-de-la-coleccin-dreidmie)
+	* [ ] "en formato digital fueron **donado** por"
+	* [ ] "acceso abierto en el Repositorio Digital Archivo DILA ."
+<br> </br>
+<br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
