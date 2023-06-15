@@ -218,6 +218,11 @@
 	* [ ] "CONTINUAR **NAVEGNDO** LA COLECCIÓN CORDEU"
 <br> </br>
 <br> </br>
+* Typo en [Inventario detallado de la colección Cordeu](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-de-la-coleccion-cordeu)
+	* [ ] "en poder de los herederos del **productor,** ."
+	* [ ] "Revista Española de Antropología **Americana , 189**-208"
+<br> </br>
+<br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
