@@ -184,6 +184,11 @@
 	* [ ]  Movimiento de la colección: → ?
 <br> </br>
 <br> </br>
+* Typo en [ISAD G Fondo documental Dick Edgar Ibarra Grasso](http://www.caicyt-conicet.gov.ar/dila/isad-g--fondo-conicet_caicyt_dila_ibarra)
+	* "fructífera producción bibliográfica, **,** escribió más de 350 artículos **.** Fue"
+<br> </br>
+<br> </br>
+
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
