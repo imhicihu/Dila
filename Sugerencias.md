@@ -185,7 +185,7 @@
 <br> </br>
 <br> </br>
 * Typo en [ISAD G Fondo documental Dick Edgar Ibarra Grasso](http://www.caicyt-conicet.gov.ar/dila/isad-g--fondo-conicet_caicyt_dila_ibarra)
-	* [ ]"fructífera producción bibliográfica, **,** escribió más de 350 artículos **.** Fue"
+	* [ ] "fructífera producción bibliográfica, **,** escribió más de 350 artículos **.** Fue"
 <br> </br>
 <br> </br>
 * Typo en [Inventario detallado de la colección Scarpa](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-de-la-coleccin-scarpa)
@@ -205,7 +205,9 @@
 <br> </br>
 * Typo en [Glosario de términos Ishí](http://www.caicyt-conicet.gov.ar/dila/glosario-ishr)
 	* [ ] "se distinguen también varias **su-bespecies** en el"
-	* [ ] 
+	* [ ] "entre ambas categorías y se distinguen también varias **su-bespecies** en el seno"
+	* [ ] "mito sustentada por **Pettazzzoni** (1948)"
+	* [ ] "el Tobích está **físca** y simbólicamente vinculado"
 <br> </br>
 <br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
