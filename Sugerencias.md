@@ -7,6 +7,9 @@
 	- [http://www.caicyt-conicet.gov.ar/dila/acercade](http://www.caicyt-conicet.gov.ar/dila/acercade)
 <br> </br>
 <br> </br>
+* Todas las `ó` en [http://www.caicyt-conicet.gov.ar/dila/acercade](http://www.caicyt-conicet.gov.ar/dila/acercade) deben ser `o`. Ver [RAE](https://www.rae.es/espanol-al-dia/la-conjuncion-o-siempre-sin-tilde-incluso-entre-cifras).
+<br> </br>
+<br> </br>
 * Copyright o tipo de licencia no está especificado:
 	![Licencia](images/image7.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/items/show/13268#?c=0&m=0&s=0&cv=0](http://www.caicyt-conicet.gov.ar/dila/items/show/13268#?c=0&m=0&s=0&cv=0)
