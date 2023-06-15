@@ -210,6 +210,14 @@
 	* [ ] "el Tobích está **físca** y simbólicamente vinculado"
 <br> </br>
 <br> </br>
+* Typo en [Los Chamacocos](http://www.caicyt-conicet.gov.ar/dila/los-chamacocos-prueba)
+	* [ ] "modo realis **y** **i**rrealis en la tercera persona"
+	* [ ] "in Roma alla **SocietàGeografica** Italiana"
+	* [ ] "dello stesso **mese.Roma**: Società"
+	* [ ] "Quaderni **delLaboratorio** di Linguistica"
+	* [ ] "CONTINUAR **NAVEGNDO** LA COLECCIÓN CORDEU"
+<br> </br>
+<br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
