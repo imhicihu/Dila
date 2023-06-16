@@ -223,6 +223,10 @@
 	* [ ] "Revista Española de Antropología **Americana , 189**-208"
 <br> </br>
 <br> </br>
+* Typo en [Inventario detallado de Analía Gutiérrez](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-coleccin-anala-gutirrez)
+	* [ ] University of British **Columbia.Versión**
+<br> </br>
+<br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
