@@ -2,6 +2,7 @@
 Citamos a estos proyectos que sirvieron de referencia en este proyecto:
 * [Omeka Forums](https://forum.omeka.org/)
 	* [Move servers with different names](https://forum.omeka.org/t/move-servers-with-different-names/9760)
+	* [CVE vulnerabilities in Omeka - concerns or not?](https://forum.omeka.org/t/cve-vulnerabilities-in-omeka-concerns-or-not/16415)
 	* [Omeka URL issues after moving to new server](https://forum.omeka.org/t/omeka-url-issues-after-moving-to-new-server/1639)
 	* [Moving to Another Server](https://omeka.org/classic/docs/Technical/Moving_to_Another_Server/)
 	* [The hosting decision! Can Omeka S be transferred between hosts?](https://forum.omeka.org/t/the-hosting-decision-can-omeka-s-be-transferred-between-hosts/13846)
