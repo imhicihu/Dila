@@ -226,7 +226,7 @@
 * Typo en [Inventario detallado de Analía Gutiérrez](http://www.caicyt-conicet.gov.ar/dila/inventario-detallado-coleccin-anala-gutirrez)
 	* [ ] University of British **Columbia.Versión**
 * Typo en [Colección Analía Gutiérrez](http://www.caicyt-conicet.gov.ar/dila/pubgutierrez)
-	* University of British **Columbia.Versión**
+	* [ ] University of British **Columbia.Versión**
 <br> </br>
 <br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
