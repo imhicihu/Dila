@@ -235,6 +235,9 @@
 	* [ ] Mela Bosch, la **Dra.Golluscio**
 <br> </br>
 <br> </br>
+* Support for screen readers, related with [HTML language attribute declaration](https://www.w3.org/International/questions/qa-html-language-declarations) for [mocoví](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry), [wichí](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry), _et alia_
+<br> </br>
+<br> </br>
 ### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
