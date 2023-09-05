@@ -1,6 +1,5 @@
-# Propuestas
-## Sitios 
-<br> </br>
+## Propuestas
+### Sitios 
 ### Sitio Archivo DILA → http://www.caicyt-conicet.gov.ar/dila/
 * Información de copyright no está especificado:
 	![Copyright](images/image1.png)
