@@ -1,4 +1,4 @@
-# Privacy Policy
+## Privacy Policy
 
 Last updated: June 13, 2023
 
@@ -6,13 +6,13 @@ This Privacy policy describes our policies and procedures on the collection, use
 
 We use your personal data to provide and improve the service. By using the service, you agree to the collection and use of information in accordance with this Privacy policy.
 
-# Interpretation and Definitions
+### Interpretation and Definitions
 
-## Interpretation
+### Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. These shall have the same meaning regardless of whether they appear in singular or in plural.
 
-## Definitions
+### Definitions
 
 For the purposes of this Privacy policy:
 
@@ -41,9 +41,9 @@ For the purposes of this Privacy policy:
 - __You__ means the individual accessing or using the service, or the company, or other legal entity on behalf of which such individual is accessing or using the service, as applicable.
 
 
-# Collecting and using your personal data
+### Collecting and using your personal data
 
-## Types of data collected
+### Types of data collected
 
 ### Personal data
 
@@ -99,7 +99,7 @@ We use both session and persistent cookies for the purposes set out below:
 For more information about the cookies we use and your choices regarding cookies, please visit our Cookies policy or the Cookies section of our Privacy policy.
 
 
-## Use of your personal data
+### Use of your personal data
 
 The Company may use personal data for the following purposes:
 
@@ -109,11 +109,11 @@ The Company may use personal data for the following purposes:
 - __To contact you:__ To contact you by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
 - __To manage your requests:__ To attend and manage your requests to us.
 
-## Delete Your Personal Data
+### Delete Your Personal Data
 
 You have the right to delete or request that we assist in deleting the personal data that we have collected about You.
 
-## Disclosure of Your Personal Data
+### Disclosure of Your Personal Data
 
 ### Law enforcement
 
@@ -128,22 +128,22 @@ The company may disclose your personal data in the good faith belief that such a
 - Protect the personal safety of Users of the Service or the public
 - Protect against legal liability
 
-## Security of Your Personal Data
+### Security of Your Personal Data
 
 The security of your personal data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal data, we cannot guarantee its absolute security.
 
-# Children's Privacy
+### Children's Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13.
 
 
-# Links to Other Websites
+### Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-# Changes to this Privacy policy
+### Changes to this Privacy policy
 
 We may update our Privacy policy from time to time. We will notify you of any changes by posting the new Privacy policy on this page.
 
@@ -151,7 +151,7 @@ We will let you know via email and/or a prominent notice on our service, prior t
 
 You are advised to review this Privacy policy periodically for any changes. Changes to this Privacy policy are effective when they are posted on this page.
 
-# Contact us
+### Contact us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
