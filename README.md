@@ -12,7 +12,7 @@
 * Es un repositorio con fines específicos y de **uso interno**.
 ![portada](images/64823f251a50521542136f10.jpg)
 
-## Transferencia ##
+### Transferencia
 
 * Resumen del flujo de trabajo
     - Copia de seguridad del sitio web anterior.
@@ -23,18 +23,18 @@
     - _Tests_ y verificación de enlaces internos, pruebas de rendimientos y puesta a punto final.
     - En una primera instancia, se han recabado estos [issues](Sugerencias.md) y posibles [actualizaciones](Misceláneas.md)
 
-## Contribuciones ##
+### Contribuciones
 
 * Dado que este proyecto es de **uso interno**, las solicitudes de extracción (*pull requests*) están **restringidas** a aquellos involucrados en este proyecto.
 
-## Legales ##
+### Legales
 
 * Todas las marcas registradas son propiedad de sus respectivos propietarios.
 
-## Código de conducta ##
+### Código de conducta
 
 * Por favor, revise nuestro [Código de conducta](codigo_de_conducta.md).
 
-## Licencia ##
+### Licencia
 
 * Este repositorio se distribuye bajo la licencia ![MIT](images/2049852260-MIT-license-green.png), que especifica los términos y condiciones de uso. Consulte el archivo [LICENSE](LICENSE) para obtener más información.
