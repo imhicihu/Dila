@@ -318,7 +318,9 @@
 <br> </br>
 ### Misceláneas:
 #### Omeka
-* ¿Está planificada la actualización de [Omeka](https://omeka.org/classic/docs/Installation/Upgrading/)?
+* ¿Está planificada la actualización de [Omeka](https://omeka.org/classic/docs/Installation/Upgrading/)? ¿Existe una política de actualizaciones?
+* ¿Está contemplada la escalabilidad del sistema?
+* ¿Existe una política de accesibilidad respecto de los contenidos ofrecidos?
 * [Omeka vulnerabilidades](https://www.cvedetails.com/vulnerability-list/vendor_id-13565/product_id-28202/Omeka-Omeka.html)
 * ¿Existe la posibilidad de agregar este _plugin_ para poder compartir la difusión del sitio? Ver [plugin-SocialBookmarking](https://github.com/omeka/plugin-SocialBookmarking)
 	![social_media](images/social_links.png)
@@ -334,7 +336,7 @@
 * Actualizar _backlink_ del micro-sitio del Dila: _v. gr._: [https://diccionariowichi.com.ar/creditos/instituciones/](https://diccionariowichi.com.ar/creditos/instituciones/)
 * ¿Generar una política de [intercambio de enlaces](https://www.isocialweb.agency/wiki/intercambio-de-enlaces/)?
 #### Servidor
-* Política de backups: ¿periodicidad, _cron_ jobs?
+* Política de ciclos de backups: ¿periodicidad, _cron_ jobs?
 * ¿Hay un servidor espejo del sitio?
 * ¿Existe un `robots.txt`? → [robots.txt](robots.txt)
 * ¿ Existe una página de estado operacional del servidor [system page status](https://updown.io/p/4isvl)?
