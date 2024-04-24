@@ -339,6 +339,6 @@
 * Política de ciclos de backups: ¿periodicidad, _cron_ jobs?
 * ¿Hay un servidor espejo del sitio?
 * ¿Existe un `robots.txt`? → [robots.txt](robots.txt)?
-* ¿Existe una página de estado operacional del servidor [system page status](https://updown.io/p/4isvl)?
+* ¿Existe una página de estado operacional del servidor [system page status](https://imhicihu.statuspage.io/)?
 * ¿Migración de `PHP` 5 a `PHP` 8?
 * Presenta un mensaje de error `https is not secure`.
