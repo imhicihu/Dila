@@ -1,6 +1,6 @@
-## Propuestas
-### Sitios 
-### Sitio Archivo DILA → http://www.caicyt-conicet.gov.ar/dila/
+### Propuestas
+#### Sitios 
+#### Sitio Archivo DILA → http://www.caicyt-conicet.gov.ar/dila/
 * Información de copyright no está especificado:
 	![Copyright](images/image1.png)
 	- [http://www.caicyt-conicet.gov.ar/dila/acercade](http://www.caicyt-conicet.gov.ar/dila/acercade)
@@ -237,7 +237,7 @@
 * Support for screen readers, related with [HTML language attribute declaration](https://www.w3.org/International/questions/qa-html-language-declarations) for [mocoví](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry), [wichí](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry), _et alia_
 <br> </br>
 <br> </br>
-### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
+#### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
 	- [ ] Sí
 	- [ ] No
@@ -245,7 +245,7 @@
 	- [http://www.caicyt-conicet.gov.ar/micrositios/dila/](http://www.caicyt-conicet.gov.ar/micrositios/dila/)
 <br> </br>
 <br> </br>
-### Sitio La lengua nivaĉle → https://r020.com.ar/lab/caicyt/nivacle/
+#### Sitio La lengua nivaĉle → https://r020.com.ar/lab/caicyt/nivacle/
 * Cambiar logotipo:
 	- [ ] Sí
 	- [ ] No
@@ -301,14 +301,14 @@
 	- [https://r020.com.ar/lab/caicyt/nivacle/contact](https://r020.com.ar/lab/caicyt/nivacle/contact)
 <br> </br>
 <br> </br>
-### Sitio Archivo DoBeS - Lenguas del Chaco → http://dobes.caicyt.gov.ar/ds?imdi_browser/
+#### Sitio Archivo DoBeS - Lenguas del Chaco → http://dobes.caicyt.gov.ar/ds?imdi_browser/
 * Sitio no encontrado (http://dobes.caicyt.gov.ar/ds?imdi_browser/)
 	- Se accedió el 15 de mayo de 2023
 	![url](images/image34.png)
 	- [http://dobes.caicyt.gov.ar/ds?imdi_browser/](http://dobes.caicyt.gov.ar/ds?imdi_browser/)
 <br> </br>
 <br> </br>
-### Sitio Glosario de Antropología y Arqueología → http://vocacularios.caicyt.gov.ar/antropoglosa
+#### Sitio Glosario de Antropología y Arqueología → http://vocacularios.caicyt.gov.ar/antropoglosa
 * Sitio no encontrado (http://vocacularios.caicyt.gov.ar/antropoglosa)
 	- Se accedió el 15 de mayo de 2023
 	![url](images/image37.png)
