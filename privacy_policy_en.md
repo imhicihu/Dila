@@ -153,7 +153,7 @@ You are advised to review this Privacy policy periodically for any changes. Chan
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, You can contact us:
+If you have any questions about this Privacy Policy, you can contact us:
 
 
 - By email: `imhicihu` at `gmail` dot `com`
