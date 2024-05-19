@@ -1,13 +1,13 @@
 
-## Código de Conducta convenido para Contribuyentes
+### Código de Conducta convenido para Contribuyentes
 
-### Nuestro compromiso
+#### Nuestro compromiso
 
 Nosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad sea una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, casta, color, religión, o identidad u orientación sexual.
 
 Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.
 
-### Nuestros estándares
+#### Nuestros estándares
 
 Ejemplos de comportamientos que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
@@ -28,23 +28,23 @@ Ejemplos de comportamiento inaceptable:
 * Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un
   entorno profesional
 
-### Aplicación de las responsabilidades
+#### Aplicación de las responsabilidades
 
 Los administradores de la comunidad son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.
 
 Los administradores de la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, _commits_, código, ediciones de páginas de wiki, _issues_ y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado.
 
-### Alcance
+#### Alcance
 
 Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
 
-### Aplicación
+#### Aplicación
 
 Instancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas a los administradores de la comunidad responsables del cumplimiento a través de `imhicihu` at `gmail` dot `com`. Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
 
 Todos los administradores de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes.
 
-### Guías de Aplicación
+#### Guías de Aplicación
 
 Los administradores de la comunidad seguirán estas Guías de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que juzguen como un incumplimiento de este Código de Conducta:
 
@@ -72,7 +72,7 @@ Los administradores de la comunidad seguirán estas Guías de Impacto en la Comu
 
 **Consecuencia**: Una expulsión permanente de cualquier tipo de interacción pública con la comunidad del proyecto.
 
-### Atribución
+#### Atribución
 
 Este Código de Conducta es una adaptación del [Contributor Covenant](https://www.contributor-covenant.org/), versión 2.1,
 disponible en https://www.contributor-covenant.org/es/version/2/1/code_of_conduct.html
