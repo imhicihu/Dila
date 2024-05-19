@@ -1,4 +1,4 @@
-## Cookies Policy
+### Cookies Policy
 
 Last updated: June 13, 2023
 
@@ -8,13 +8,13 @@ Cookies do not typically contain any information that personally identifies a us
 
 We do not store sensitive personal information, such as mailing addresses, account passwords, etc. in the cookies we use.
 
-## Interpretation and Definitions
+#### Interpretation and Definitions
 
-### Interpretation
+#### Interpretation
 
 The words of which the initial letter is capitalized have meanings defined under the following conditions. These shall have the same meaning regardless of whether they appear in singular or in plural.
 
-### Definitions
+#### Definitions
 
 For the purposes of this Cookies Policy:
 
@@ -23,7 +23,7 @@ For the purposes of this Cookies Policy:
 - __Website__ refers to DILA, accessible from [https://imhicihu.gitbook.io/dila](https://imhicihu.gitbook.io/dila)
 - __You__ means the individual accessing or using the website, or a company, or any legal entity on behalf of which such individual is accessing or using the website, as applicable.
 
-### The use of the Cookies
+#### The use of the Cookies
 
 #### Type of cookies we use
 
@@ -47,9 +47,6 @@ We use both session and persistent cookies for the purposes set out below:
 
    Purpose: These cookies allow us to remember choices you make when you use the website, such as remembering your login details or language preference. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you use the website.
 
-
-
-
 #### Your choices regarding cookies
 
 If you prefer to avoid the use of cookies on the website, first you must disable the use of cookies in your browser and then delete the cookies saved in your browser associated with this website. You may use this option for preventing the use of cookies at any time.
@@ -72,9 +69,8 @@ For any other web browser, please visit your web browser's official web pages.
 
 You can learn more about cookies: [What Are Cookies?](https://en.wikipedia.org/wiki/HTTP_cookie).
 
-### Contact us
+#### Contact us
 
 If you have any questions about this `Cookies Policy`, you can contact us:
-
 
 - By email: `imhicihu` at `gmail` dot `com`
