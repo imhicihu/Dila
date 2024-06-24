@@ -332,6 +332,7 @@
 * ¿Qué plugins están habilitados, cuáles están programados para activarse y desactivarse en un futuro?
 * ¿Existe una página `404` y `Sitio en mantenimiento`?
 * ¿Posibilidad de convertir los archivos en formato `.3gp` a `.mp4`?
+* ¿Posibilidad de agregar metadatos o descripciones en las imágenes o videos a fines de una mejor [accesibilidad](https://guides.cuny.edu/accessibility/omeka) para personas con otras capacidades?
 #### Backlinks
 * Actualizar _backlinks_ del Dila: [https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&oq=link%3Ahttp%3A%2F%2Fwww.caicyt-conicet.gov.ar%2Fdila&aqs=chrome..69i57j69i58.13613j0j7&sourceid=chrome&ie=UTF-8) 
 * Actualizar _backlink_ del micro-sitio del Dila: _v. gr._: [https://diccionariowichi.com.ar/creditos/instituciones/](https://diccionariowichi.com.ar/creditos/instituciones/)
