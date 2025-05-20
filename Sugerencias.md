@@ -239,8 +239,9 @@
 <br> </br>
 #### Micrositio DILA → http://www.caicyt-conicet.gov.ar/micrositios/dila/
 * Transferir micro-sitio:
-	- [ ] Sí
+	- [x] Sí
 	- [ ] No
+  - [x] Transferido -> >https://imhicihu.conicet.gov.ar/micrositio-dila/ 
 	![url](images/image5.png)
 	- [http://www.caicyt-conicet.gov.ar/micrositios/dila/](http://www.caicyt-conicet.gov.ar/micrositios/dila/)
 <br> </br>
