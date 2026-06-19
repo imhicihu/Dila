@@ -4,12 +4,12 @@
 <br> 
 </br>
 
-![portada](images/477405737-stability_work_in_progress.png)
+![portada](images/status_archived.png)
 ![internal_use](images/3847436881-internal_use_stable.png)
 # FUNDAMENTO #
 
 * Este repositorio persigue simplemente el registro de los cambios llevados a cabo en la transición entre un servidor a otro, su flujo de trabajo y las estrategias digitales implicadas. Entre las herramientas _open source_ utilizadas están [Omeka](https://omeka.org/), servidores [Apache](https://es.wikipedia.org/wiki/Servidor_HTTP_Apache), base de datos [MySQL](https://es.wikipedia.org/wiki/MySQL), [Wordpress](https://wordpress.org/); lenguaje de programación PHP _et alia_.
-* Es un repositorio con fines específicos y de **uso interno**.
+* Es un repositorio con fines específicos y de **_uso interno_**.
 * Este repositorio es un documento vivo que crecerá y se adaptará con el tiempo.
 ![portada](images/64823f251a50521542136f10.jpg)
 
