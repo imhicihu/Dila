@@ -26,7 +26,7 @@
 
 ### Contribuciones
 
-* Dado que este proyecto es de **uso interno**, las solicitudes de extracción (*pull requests*) están **restringidas** a aquellos involucrados en este proyecto.
+* Dado que este proyecto es de **uso interno**, las solicitudes de mejora (aka *pull requests*) están **restringidas** a aquellos involucrados en este proyecto.
 
 ### Legales
 
